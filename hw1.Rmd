@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: 'Jennifer Wilson'
+author: '[Student Name]'
 date: "01-29-2020"
 output: 
   html_document:
