@@ -8,7 +8,7 @@ output:
 ---
 
 
-This is a new line
+This creates a conflict
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, comment = NA)
